@@ -1,0 +1,19 @@
+﻿//visual studio için plugin (WebCompiler)
+[
+  {
+    "outputFile": "Content/bootstrap.css",
+    "inputFile": "Content/bootstrap/bootstrap.less"
+  },
+  {
+    "outputFile": "Content/theme.css",
+    "inputFile": "Content/bootstrap/theme.less"
+  },
+  {
+    "outputFile": "Content/bootstrapcustomize.css",
+    "inputFile": "Content/Css/bootstrapcustomize.less"
+  },
+  {
+    "outputFile": "Content/global.css",
+    "inputFile": "Content/Css/global.less"
+  }
+]

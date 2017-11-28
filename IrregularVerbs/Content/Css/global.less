@@ -1,0 +1,83 @@
+﻿@import "parameter";
+body{.backgroundColor(#042743); .fontFamily(Source Sans Pro);}
+footer {
+    ul {.float(left); .margin(0); .padding(0); .listStyleType(circle); .color(#337ab7);}
+    li {.float(left); .margin(10px);
+        a {
+            &:hover {.color(#808080); .textDecoration(underline);}
+        }
+    }
+}
+footer p {.float(right);}
+.my-slider {.position(relative); .margin(0 0 20px 0); .borderRadius(6px); .overflow(hidden);
+    &#slides_control {.width(400px); .position(absolute); .top(20px); .left(50%); .margin(0 0 0 -200px);
+        & div {.height(200px);}
+        & img {.margin(0 auto); .width(100%);}
+    }
+}
+.pageInfo{
+    & p{.textAlign(center); .fontSize(35px); .fontWeight(bold); .color(#fff); .margin(0);}
+    & .tensesTxt{.fontSize(20px); .fontWeight(normal);}
+    & .meaningTxt{.fontSize(20px); .fontWeight(normal);}
+    & h1    {.float(left); .margin(0 10px 0 10px); .margin(0 10px 0 10px);}
+    & h2    {.float(left);}
+}
+textarea#notes{.resize(none);}
+.state{.padding(20px); .backgroundColor(#dedede);
+    & label{.width(100%); .color(#428bca); .fontWeight(normal);}
+}
+.alert{.display(none);}
+.alertHolder{.width(100%); .height(52px;);}
+.content-box{.backgroundColor(#fff); .padding(10px 16px); .border(1px solid #ccc); .borderRadius(5px); .fontSize(18px); .color(#555);}
+.buttonAgain{.display(none);}
+.responsive-utilities td.is-visible {.color(#468847); .backgroundColor(#dff0d8) !important;}
+.responsive-utilities td {.textAlign(center);}
+.responsive-utilities{.backgroundColor(#fff;);}
+.score{.position(absolute); .top(6px); .right(10px); .color(#c1ccc9); .fontSize(19px); .textShadow(0 -1px 0 rgba(0,0,0,.2)); .fontWeight(600);}
+.myInputForm{.margin(25px 0 35px 0);}
+//ng animate
+.animate-show-hide.ng-hide {.opacity(0);}
+.animate-show-hide.ng-hide-add,
+.animate-show-hide.ng-hide-remove {.transition(all linear 0.5s);}
+.check-element {.border(1px solid black);.opacity(1);.padding(10px);}
+.buttonAnswer{.float(left);.margin(0 0 0 10px);}
+.buttonNext{.float(right);.margin(0 10px 0 0);}
+.inputFocusTrue{.outline(0);.background(#042844);.backgroundImage(-webkit-linear-gradient(top, #042844, #12C47D));.backgroundImage(-moz-linear-gradient(top, #042844, #12C47D));.backgroundImage(-ms-linear-gradient(top, #042844, #12C47D));.backgroundImage(-o-linear-gradient(top, #042844, #12C47D));.backgroundImage(linear-gradient(to bottom, #042844, #12C47D));.border(solid #f6f4f9 1px);.color(#fff) !important;}
+.inputFocusFalse{.outline(0);.background(#042844);.backgroundImage(-webkit-linear-gradient(top, #042844, #DC012B));.backgroundImage(-moz-linear-gradient(top, #042844, #DC012B));.backgroundImage(-ms-linear-gradient(top, #042844, #DC012B));.backgroundImage(-o-linear-gradient(top, #042844, #DC012B));.backgroundImage(linear-gradient(to bottom, #042844, #DC012B));.border(solid #f6f4f9 1px);.color(#fff) !important;}
+.quizEndArea{
+    & .endQuizScoreHolder{.margin(0 auto); .width(120px);
+        & .werbs-text{.float(left); .width(100%); .fontWeight(600); .fontSize(23px); .color(#FFF9E8); .textAlign(center);}
+        & .testTypeTxt{.float(left); .width(100%); .color(#4DB6FF); .fontSize(14px); .textAlign(center);}
+        & .scoreText{.float(left); .width(100%); .fontSize(19px); .color(#FFF9E8); .textAlign(center);}
+    }
+}
+.scoreBoard {.width(195px);.color(#fcd300);.fontSize(100px);.fontWeight(600);.margin(0 auto);.marginTop(20px);.background(#052945);.backgroundImage(-webkit-linear-gradient(top, #052945, #beb9a6));.backgroundImage(-moz-linear-gradient(top, #052945, #beb9a6));.backgroundImage(-ms-linear-gradient(top, #052945, #beb9a6));.backgroundImage(-o-linear-gradient(top, #052945, #beb9a6));.backgroundImage(linear-gradient(to bottom, #052945, #beb9a6));.webkitBorderRadius(30);.mozBorderRadius(30);.borderRadius(30px);.webkitBoxShadow(0px 4px 9px #032640);.mozBoxShadow(0px 4px 9px #032640);.boxShadow(0px 4px 9px #032640);.padding(10px 20px 10px 20px);.border(solid #beb9a6 2px);
+    & span {.float(left);.width(100%);.textAlign(center);}
+}
+.tryAgainButtonHolder{.float(left); .width(100%); .margin(20px 0 0 0);}
+.tryAgainButton {.width(170px);.color(#fff);.fontSize(27px);.fontWeight(600);.margin(0 auto);.cursor(pointer);.background(#0e304a);.backgroundImage(-webkit-linear-gradient(top, #0e304a, #d9dad2));.backgroundImage(-moz-linear-gradient(top, #0e304a, #d9dad2));.backgroundImage(-ms-linear-gradient(top, #0e304a, #d9dad2));.backgroundImage(-o-linear-gradient(top, #0e304a, #d9dad2));.backgroundImage(linear-gradient(to bottom, #0e304a, #d9dad2));.webkitBorderRadius(30);.mozBorderRadius(30);.borderRadius(30px);.webkitBoxShadow(0px 4px 9px #032640);.mozBoxShadow(0px 4px 9px #032640);.boxShadow(0px 4px 9px #032640);.padding(10px 20px 10px 20px);.border(solid #e1e1d7 2px);.textDecoration(none);}
+
+
+
+
+
+//media css
+@media only screen and (min-width: 1300px){
+    .container {.width(750px);}
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1299px) {
+    .container {.width(750px);}
+}
+
+@media only screen and (max-width: 959px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+@media only screen and (max-width: 767px) {}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+@media only screen and (max-width: 479px) {}
+
+@media only screen and (min-width: 50px) and (max-width:478px) {}

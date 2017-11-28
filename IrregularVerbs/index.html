@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>IrregularVCerbs</title>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.8/angular-animate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.14.0/ui-bootstrap-tpls.min.js"></script>
+    <script src="Scripts/angular-route.min.js"></script>
+    <script src="App/Controller/HomeController.js"></script>
+    <script src="App/Directive/Directive.js"></script>
+    <script src="Scripts/angular-sanitize.min.js"></script>
+    <script src="Scripts/jquery-1.9.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="App/Data/DataService.js"></script>
+    <script src="App/Controller/DataController.js"></script>
+    <script src="Content/webfonts/ss-pika.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700&amp;subset=latin-ext" rel="stylesheet"> 
+
+    <link href="Content/bootstrap.min.css"rel="stylesheet" />
+    <link href="Content/theme.min.css" rel="stylesheet" />
+    <link href="Content/bootstrapcustomize.min.css" rel="stylesheet" />
+    <link href="Content/global.min.css" rel="stylesheet" />
+    <link rel="Stylesheet" type="text/css" href="Content/webfonts/ss-pika.css" />
+	<meta charset="utf-8" />
+</head>
+<body ng-app="angularApp">
+    <div class="container" id="container">
+        <nav class="navbar navbar-default" my-header></nav>
+        <div class="jumbotron" ng-view></div>
+    </div>
+</body>
+</html>

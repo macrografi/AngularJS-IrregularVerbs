@@ -1,0 +1,34 @@
+﻿{
+  "records": [
+    {
+      "meaning": "Uyanmak",
+      "tense": "Present tense",
+      "verb": "Awake"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Past simple tense",
+      "verb": "Awoke"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Past particible tense",
+      "verb": "Awoken"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Present tense",
+      "verb": "Be"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Past simple tense",
+      "verb": "Was/were"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Past particible tense",
+      "verb": "Been"
+    }
+  ]
+}

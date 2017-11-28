@@ -1,0 +1,1415 @@
+﻿{
+  "records": [
+    {
+      "meaning": "Uyanmak",
+      "tense": "Present tense",
+      "verb": "Awake"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Past simple tense",
+      "verb": "Awoke"
+    },
+    {
+      "meaning": "Uuyanmak",
+      "tense": "Past participle",
+      "verb": "Awoken"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Present tense",
+      "verb": "Be"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Past simple tense",
+      "verb": "was/were"
+    },
+    {
+      "meaning": "Olmak",
+      "tense": "Past participle",
+      "verb": "Been"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Present tense",
+      "verb": "Beat"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Past simple tense",
+      "verb": "Beat"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Past participle",
+      "verb": "Beaten"
+    },
+    {
+      "meaning": "Başlamak",
+      "tense": "Present tense",
+      "verb": "Begin"
+    },
+    {
+      "meaning": "Başlamak",
+      "tense": "Past simple tense",
+      "verb": "Began"
+    },
+    {
+      "meaning": "Başlamak",
+      "tense": "Past participle",
+      "verb": "Begun"
+    },
+    {
+      "meaning": "Bükmek",
+      "tense": "Present tense",
+      "verb": "Bend"
+    },
+    {
+      "meaning": "Bükmek",
+      "tense": "Past simple tense",
+      "verb": "Bent"
+    },
+    {
+      "meaning": "Bükmek",
+      "tense": "Past participle",
+      "verb": "Bent"
+    },
+    {
+      "meaning": "Bahse girmek",
+      "tense": "Present tense",
+      "verb": "Bet"
+    },
+    {
+      "meaning": "Bahse girmek",
+      "tense": "Past simple tense",
+      "verb": "Bet"
+    },
+    {
+      "meaning": "Bahse girmek",
+      "tense": "Past participle",
+      "verb": "Bet"
+    },
+    {
+      "meaning": "Emretmek",
+      "tense": "Present tense",
+      "verb": "Bid"
+    },
+    {
+      "meaning": "Emretmek",
+      "tense": "Past simple tense",
+      "verb": "Bid"
+    },
+    {
+      "meaning": "Emretmek",
+      "tense": "Past participle",
+      "verb": "Bid"
+    },
+    {
+      "meaning": "Isırmak",
+      "tense": "Present tense",
+      "verb": "Bite"
+    },
+    {
+      "meaning": "Isırmak",
+      "tense": "Past simple tense",
+      "verb": "Bit"
+    },
+    {
+      "meaning": "Isırmak",
+      "tense": "Past participle",
+      "verb": "Bitten"
+    },
+    {
+      "meaning": "Esmek",
+      "tense": "Present tense",
+      "verb": "Blow"
+    },
+    {
+      "meaning": "Esmek",
+      "tense": "Past simple tense",
+      "verb": "Blew"
+    },
+    {
+      "meaning": "Esmek",
+      "tense": "Past participle",
+      "verb": "Blown"
+    },
+    {
+      "meaning": "Kırmak",
+      "tense": "Present tense",
+      "verb": "Break"
+    },
+    {
+      "meaning": "Kırmak",
+      "tense": "Past simple tense",
+      "verb": "Broke"
+    },
+    {
+      "meaning": "Kırmak",
+      "tense": "Past participle",
+      "verb": "Broken"
+    },
+    {
+      "meaning": "Getirmek",
+      "tense": "Present tense",
+      "verb": "Bring"
+    },
+    {
+      "meaning": "Getirmek",
+      "tense": "Past simple tense",
+      "verb": "Brought"
+    },
+    {
+      "meaning": "Getirmek",
+      "tense": "Past participle",
+      "verb": "Brought"
+    },
+    {
+      "meaning": "Yayımlamak",
+      "tense": "Present tense",
+      "verb": "Broadcast"
+    },
+    {
+      "meaning": "Yayımlamak",
+      "tense": "Past simple tense",
+      "verb": "Broadcast"
+    },
+    {
+      "meaning": "Yayımlamak",
+      "tense": "Past participle",
+      "verb": "Broadcast"
+    },
+    {
+      "meaning": "İnşa etmek",
+      "tense": "Present tense",
+      "verb": "Build"
+    },
+    {
+      "meaning": "İnşa etmek",
+      "tense": "Past simple tense",
+      "verb": "Built"
+    },
+    {
+      "meaning": "İnşa etmek",
+      "tense": "Past participle",
+      "verb": "Built"
+    },
+    {
+      "meaning": "Patlamak",
+      "tense": "Present tense",
+      "verb": "Burst"
+    },
+    {
+      "meaning": "Patlamak",
+      "tense": "Past simple tense",
+      "verb": "Burst"
+    },
+    {
+      "meaning": "Patlamak",
+      "tense": "Past participle",
+      "verb": "Burst"
+    },
+    {
+      "meaning": "Yakmak",
+      "tense": "Present tense",
+      "verb": "Burn"
+    },
+    {
+      "meaning": "Yakmak",
+      "tense": "Past simple tense",
+      "verb": "Burned/Burnt"
+    },
+    {
+      "meaning": "Yakmak",
+      "tense": "Past participle",
+      "verb": "Burned/Burnt"
+    },
+    {
+      "meaning": "Satın almak",
+      "tense": "Present tense",
+      "verb": "Buy"
+    },
+    {
+      "meaning": "Satın almak",
+      "tense": "Past simple tense",
+      "verb": "Bought"
+    },
+    {
+      "meaning": "Satın almak",
+      "tense": "Past participle",
+      "verb": "Bought"
+    },
+    {
+      "meaning": "Yakalamak",
+      "tense": "Present tense",
+      "verb": "Catch"
+    },
+    {
+      "meaning": "Yakalamak",
+      "tense": "Past simple tense",
+      "verb": "Caught"
+    },
+    {
+      "meaning": "Yakalamak",
+      "tense": "Past participle",
+      "verb": "Caught"
+    },
+    {
+      "meaning": "Seçmek",
+      "tense": "Present tense",
+      "verb": "Choose"
+    },
+    {
+      "meaning": "Seçmek",
+      "tense": "Past simple tense",
+      "verb": "Chose"
+    },
+    {
+      "meaning": "Seçmek",
+      "tense": "Past participle",
+      "verb": "Chosen"
+    },
+    {
+      "meaning": "Gelmek",
+      "tense": "Present tense",
+      "verb": "Come"
+    },
+    {
+      "meaning": "Gelmek",
+      "tense": "Past simple tense",
+      "verb": "Came"
+    },
+    {
+      "meaning": "Gelmek",
+      "tense": "Past participle",
+      "verb": "Come"
+    },
+    {
+      "meaning": "Değer biçmek",
+      "tense": "Present tense",
+      "verb": "Cost"
+    },
+    {
+      "meaning": "Değer biçmek",
+      "tense": "Past simple tense",
+      "verb": "Cost"
+    },
+    {
+      "meaning": "Değer biçmek",
+      "tense": "Past participle",
+      "verb": "Cost"
+    },
+    {
+      "meaning": "Emeklemek",
+      "tense": "Present tense",
+      "verb": "Creep"
+    },
+    {
+      "meaning": "Emeklemek",
+      "tense": "Past simple tense",
+      "verb": "Crept"
+    },
+    {
+      "meaning": "Emeklemek",
+      "tense": "Past participle",
+      "verb": "Crept"
+    },
+    {
+      "meaning": "Kesmek",
+      "tense": "Present tense",
+      "verb": "Cut"
+    },
+    {
+      "meaning": "Kesmek",
+      "tense": "Past simple tense",
+      "verb": "Cut"
+    },
+    {
+      "meaning": "Kesmek",
+      "tense": "Past participle",
+      "verb": "Cut"
+    },
+    {
+      "meaning": "Anlaşmak",
+      "tense": "Present tense",
+      "verb": "Deal"
+    },
+    {
+      "meaning": "Anlaşmak",
+      "tense": "Past simple tense",
+      "verb": "Dealt"
+    },
+    {
+      "meaning": "Anlaşmak",
+      "tense": "Past participle",
+      "verb": "Dealt"
+    },
+    {
+      "meaning": "Kazmak",
+      "tense": "Present tense",
+      "verb": "Dig"
+    },
+    {
+      "meaning": "Kazmak",
+      "tense": "Past simple tense",
+      "verb": "Dug"
+    },
+    {
+      "meaning": "Kazmak",
+      "tense": "Past participle",
+      "verb": "Dug"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Present tense",
+      "verb": "Do"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Past simple tense",
+      "verb": "Did"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Past participle",
+      "verb": "Done"
+    },
+    {
+      "meaning": "Çekmek",
+      "tense": "Present tense",
+      "verb": "Draw"
+    },
+    {
+      "meaning": "Çekmek",
+      "tense": "Past simple tense",
+      "verb": "Drew"
+    },
+    {
+      "meaning": "Çekmek",
+      "tense": "Past participle",
+      "verb": "Drawn"
+    },
+    {
+      "meaning": "Rüya görmek",
+      "tense": "Present tense",
+      "verb": "Dream"
+    },
+    {
+      "meaning": "Rüya görmek",
+      "tense": "Past simple tense",
+      "verb": "Dreamed/Dreamt"
+    },
+    {
+      "meaning": "Rüya görmek",
+      "tense": "Past participle",
+      "verb": "Dreamed/Dreamt"
+    },
+    {
+      "meaning": "Sürmek",
+      "tense": "Present tense",
+      "verb": "Drive"
+    },
+    {
+      "meaning": "Sürmek",
+      "tense": "Past simple tense",
+      "verb": "Drove"
+    },
+    {
+      "meaning": "Sürmek",
+      "tense": "Past participle",
+      "verb": "Driven"
+    },
+    {
+      "meaning": "İçmek",
+      "tense": "Present tense",
+      "verb": "Drink"
+    },
+    {
+      "meaning": "İçmek",
+      "tense": "Past simple tense",
+      "verb": "Drank"
+    },
+    {
+      "meaning": "İçmek",
+      "tense": "Past participle",
+      "verb": "Drunk"
+    },
+    {
+      "meaning": "Yemek yemek",
+      "tense": "Present tense",
+      "verb": "Eat"
+    },
+    {
+      "meaning": "Yemek yemek",
+      "tense": "Past simple tense",
+      "verb": "Ate"
+    },
+    {
+      "meaning": "Yemek yemek",
+      "tense": "Past participle",
+      "verb": "Eaten"
+    },
+    {
+      "meaning": "Düşmek",
+      "tense": "Present tense",
+      "verb": "Fall"
+    },
+    {
+      "meaning": "Düşmek",
+      "tense": "Past simple tense",
+      "verb": "Fell"
+    },
+    {
+      "meaning": "Düşmek",
+      "tense": "Past participle",
+      "verb": "Fallen"
+    },
+    {
+      "meaning": "Beslemek",
+      "tense": "Present tense",
+      "verb": "Feed"
+    },
+    {
+      "meaning": "Beslemek",
+      "tense": "Past simple tense",
+      "verb": "Fed"
+    },
+    {
+      "meaning": "Beslemek",
+      "tense": "Past participle",
+      "verb": "Fed"
+    },
+    {
+      "meaning": "Hissetmek",
+      "tense": "Present tense",
+      "verb": "Feel"
+    },
+    {
+      "meaning": "Hissetmek",
+      "tense": "Past simple tense",
+      "verb": "Felt"
+    },
+    {
+      "meaning": "Hissetmek",
+      "tense": "Past participle",
+      "verb": "Felt"
+    },
+    {
+      "meaning": "Dövüşmek",
+      "tense": "Present tense",
+      "verb": "Fight"
+    },
+    {
+      "meaning": "Dövüşmek",
+      "tense": "Past simple tense",
+      "verb": "Fought"
+    },
+    {
+      "meaning": "Dövüşmek",
+      "tense": "Past participle",
+      "verb": "Fought"
+    },
+    {
+      "meaning": "Bulmak",
+      "tense": "Present tense",
+      "verb": "Find"
+    },
+    {
+      "meaning": "Bulmak",
+      "tense": "Past simple tense",
+      "verb": "Found"
+    },
+    {
+      "meaning": "Bulmak",
+      "tense": "Past participle",
+      "verb": "Found"
+    },
+    {
+      "meaning": "Firar etmek",
+      "tense": "Present tense",
+      "verb": "Flee"
+    },
+    {
+      "meaning": "Firar etmek",
+      "tense": "Past simple tense",
+      "verb": "Fled"
+    },
+    {
+      "meaning": "Firar etmek",
+      "tense": "Past participle",
+      "verb": "Fled"
+    },
+    {
+      "meaning": "Uçmak",
+      "tense": "Present tense",
+      "verb": "Fly"
+    },
+    {
+      "meaning": "Uçmak",
+      "tense": "Past simple tense",
+      "verb": "Flew"
+    },
+    {
+      "meaning": "Uçmak",
+      "tense": "Past participle",
+      "verb": "Flown"
+    },
+    {
+      "meaning": "Yasaklamak",
+      "tense": "Present tense",
+      "verb": "Forbid"
+    },
+    {
+      "meaning": "Yasaklamak",
+      "tense": "Past simple tense",
+      "verb": "Forbade"
+    },
+    {
+      "meaning": "Yasaklamak",
+      "tense": "Past participle",
+      "verb": "Forbidden"
+    },
+    {
+      "meaning": "Unutmak",
+      "tense": "Present tense",
+      "verb": "Forget"
+    },
+    {
+      "meaning": "Unutmak",
+      "tense": "Past simple tense",
+      "verb": "Forgot"
+    },
+    {
+      "meaning": "Unutmak",
+      "tense": "Past participle",
+      "verb": "Forgotten"
+    },
+    {
+      "meaning": "Affetmek",
+      "tense": "Present tense",
+      "verb": "Forgive"
+    },
+    {
+      "meaning": "Affetmek",
+      "tense": "Past simple tense",
+      "verb": "Forgave"
+    },
+    {
+      "meaning": "Affetmek",
+      "tense": "Past participle",
+      "verb": "Forgiven"
+    },
+    {
+      "meaning": "Donmak",
+      "tense": "Present tense",
+      "verb": "Freeze"
+    },
+    {
+      "meaning": "Donmak",
+      "tense": "Past simple tense",
+      "verb": "Froze"
+    },
+    {
+      "meaning": "Donmak",
+      "tense": "Past participle",
+      "verb": "Frozen"
+    },
+    {
+      "meaning": "Elde etmek",
+      "tense": "Present tense",
+      "verb": "Get"
+    },
+    {
+      "meaning": "Elde etmek",
+      "tense": "Past simple tense",
+      "verb": "Got"
+    },
+    {
+      "meaning": "Elde etmek",
+      "tense": "Past participle",
+      "verb": "Gotten"
+    },
+    {
+      "meaning": "Vermek",
+      "tense": "Present tense",
+      "verb": "Give"
+    },
+    {
+      "meaning": "Vermek",
+      "tense": "Past simple tense",
+      "verb": "Gave"
+    },
+    {
+      "meaning": "Vermek",
+      "tense": "Past participle",
+      "verb": "Given"
+    },
+    {
+      "meaning": "Gitmek",
+      "tense": "Present tense",
+      "verb": "Go"
+    },
+    {
+      "meaning": "Gitmek",
+      "tense": "Past simple tense",
+      "verb": "Went"
+    },
+    {
+      "meaning": "Gitmek",
+      "tense": "Past participle",
+      "verb": "Gone"
+    },
+    {
+      "meaning": "Büyümek",
+      "tense": "Present tense",
+      "verb": "Grow"
+    },
+    {
+      "meaning": "Büyümek",
+      "tense": "Past simple tense",
+      "verb": "Grew"
+    },
+    {
+      "meaning": "Büyümek",
+      "tense": "Past participle",
+      "verb": "Grown"
+    },
+    {
+      "meaning": "Asmak",
+      "tense": "Present tense",
+      "verb": "Hang"
+    },
+    {
+      "meaning": "Asmak",
+      "tense": "Past simple tense",
+      "verb": "Hung"
+    },
+    {
+      "meaning": "Asmak",
+      "tense": "Past participle",
+      "verb": "Hung"
+    },
+    {
+      "meaning": "Sahip olmak",
+      "tense": "Present tense",
+      "verb": "Have"
+    },
+    {
+      "meaning": "Sahip olmak",
+      "tense": "Past simple tense",
+      "verb": "Had"
+    },
+    {
+      "meaning": "Sahip olmak",
+      "tense": "Past participle",
+      "verb": "Had"
+    },
+    {
+      "meaning": "Duymak",
+      "tense": "Present tense",
+      "verb": "Hear"
+    },
+    {
+      "meaning": "Duymak",
+      "tense": "Past simple tense",
+      "verb": "Heard"
+    },
+    {
+      "meaning": "Duymak",
+      "tense": "Past participle",
+      "verb": "Heard"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Present tense",
+      "verb": "Hide"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Past simple tense",
+      "verb": "Hid"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Past participle",
+      "verb": "Hidden"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Present tense",
+      "verb": "Hit"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Past simple tense",
+      "verb": "Hit"
+    },
+    {
+      "meaning": "Vurmak",
+      "tense": "Past participle",
+      "verb": "Hit"
+    },
+    {
+      "meaning": "Tutmak",
+      "tense": "Present tense",
+      "verb": "Hold"
+    },
+    {
+      "meaning": "Tutmak",
+      "tense": "Past simple tense",
+      "verb": "Held"
+    },
+    {
+      "meaning": "Tutmak",
+      "tense": "Past participle",
+      "verb": "Held"
+    },
+    {
+      "meaning": "Yaralanmak",
+      "tense": "Present tense",
+      "verb": "Hurt"
+    },
+    {
+      "meaning": "Yaralanmak",
+      "tense": "Past simple tense",
+      "verb": "Hurt"
+    },
+    {
+      "meaning": "Yaralanmak",
+      "tense": "Past participle",
+      "verb": "Hurt"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Present tense",
+      "verb": "Keep"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Past simple tense",
+      "verb": "Kept"
+    },
+    {
+      "meaning": "Saklamak",
+      "tense": "Past participle",
+      "verb": "Kept"
+    },
+    {
+      "meaning": "Bilmek",
+      "tense": "Present tense",
+      "verb": "Know"
+    },
+    {
+      "meaning": "Bilmek",
+      "tense": "Past simple tense",
+      "verb": "Knew"
+    },
+    {
+      "meaning": "Bilmek",
+      "tense": "Past participle",
+      "verb": "Known"
+    },
+    {
+      "meaning": "Yaymak",
+      "tense": "Present tense",
+      "verb": "Lay"
+    },
+    {
+      "meaning": "Yaymak",
+      "tense": "Past simple tense",
+      "verb": "Laid"
+    },
+    {
+      "meaning": "Yaymak",
+      "tense": "Past participle",
+      "verb": "Laid"
+    },
+    {
+      "meaning": "Rehberlik etmek",
+      "tense": "Present tense",
+      "verb": "Lead"
+    },
+    {
+      "meaning": "Rehberlik etmek",
+      "tense": "Past simple tense",
+      "verb": "Led"
+    },
+    {
+      "meaning": "Rehberlik etmek",
+      "tense": "Past participle",
+      "verb": "Led"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Present tense",
+      "verb": "Learn"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Past simple tense",
+      "verb": "Learned/Learnt"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Past participle",
+      "verb": "Learned/Learnt"
+    },
+    {
+      "meaning": "Ayrılmak",
+      "tense": "Present tense",
+      "verb": "Leave"
+    },
+    {
+      "meaning": "Ayrılmak",
+      "tense": "Past simple tense",
+      "verb": "Left"
+    },
+    {
+      "meaning": "Ayrılmak",
+      "tense": "Past participle",
+      "verb": "Left"
+    },
+    {
+      "meaning": "Ödünç vermek",
+      "tense": "Present tense",
+      "verb": "Lend"
+    },
+    {
+      "meaning": "Ödünç vermek",
+      "tense": "Past simple tense",
+      "verb": "Lent"
+    },
+    {
+      "meaning": "Ödünç vermek",
+      "tense": "Past participle",
+      "verb": "Lent"
+    },
+    {
+      "meaning": "İzin vermek",
+      "tense": "Present tense",
+      "verb": "Let"
+    },
+    {
+      "meaning": "İzin vermek",
+      "tense": "Past simple tense",
+      "verb": "Let"
+    },
+    {
+      "meaning": "İzin vermek",
+      "tense": "Past participle",
+      "verb": "Let"
+    },
+    {
+      "meaning": "Yalan söylemek",
+      "tense": "Present tense",
+      "verb": "Lie"
+    },
+    {
+      "meaning": "Yalan söylemek",
+      "tense": "Past simple tense",
+      "verb": "Lay"
+    },
+    {
+      "meaning": "Yalan söylemek",
+      "tense": "Past participle",
+      "verb": "Lain"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Present tense",
+      "verb": "Make"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Past simple tense",
+      "verb": "Made"
+    },
+    {
+      "meaning": "Yapmak",
+      "tense": "Past participle",
+      "verb": "Made"
+    },
+    {
+      "meaning": "Anlamına gelmek",
+      "tense": "Present tense",
+      "verb": "Mean"
+    },
+    {
+      "meaning": "Anlamına gelmek",
+      "tense": "Past simple tense",
+      "verb": "Meant"
+    },
+    {
+      "meaning": "Anlamına gelmek",
+      "tense": "Past participle",
+      "verb": "Meant"
+    },
+    {
+      "meaning": "Buluşmak",
+      "tense": "Present tense",
+      "verb": "Meet"
+    },
+    {
+      "meaning": "Buluşmak",
+      "tense": "Past simple tense",
+      "verb": "Met"
+    },
+    {
+      "meaning": "Buluşmak",
+      "tense": "Past participle",
+      "verb": "Met"
+    },
+
+    {
+      "meaning": "Ödemek",
+      "tense": "Present tense",
+      "verb": "Pay"
+    },
+    {
+      "meaning": "Ödemek",
+      "tense": "Past simple tense",
+      "verb": "Paid"
+    },
+    {
+      "meaning": "Ödemek",
+      "tense": "Past participle",
+      "verb": "Paid"
+    },
+    {
+      "meaning": "Koymak",
+      "tense": "Present tense",
+      "verb": "Put"
+    },
+    {
+      "meaning": "Koymak",
+      "tense": "Past simple tense",
+      "verb": "Put"
+    },
+    {
+      "meaning": "Koymak",
+      "tense": "Past participle",
+      "verb": "Put"
+    },
+    {
+      "meaning": "Okumak",
+      "tense": "Present tense",
+      "verb": "Read"
+    },
+    {
+      "meaning": "Okumak",
+      "tense": "Past simple tense",
+      "verb": "Read"
+    },
+    {
+      "meaning": "Okumak",
+      "tense": "Past participle",
+      "verb": "Read"
+    },
+    {
+      "meaning": "Binmek",
+      "tense": "Present tense",
+      "verb": "Ride"
+    },
+    {
+      "meaning": "Binmek",
+      "tense": "Past simple tense",
+      "verb": "Rode"
+    },
+    {
+      "meaning": "Binmek",
+      "tense": "Past participle",
+      "verb": "Ridden"
+    },
+    {
+      "meaning": "Çalmak",
+      "tense": "Present tense",
+      "verb": "Ring"
+    },
+    {
+      "meaning": "Çalmak",
+      "tense": "Past simple tense",
+      "verb": "Rang"
+    },
+    {
+      "meaning": "Çalmak",
+      "tense": "Past participle",
+      "verb": "Rung"
+    },
+    {
+      "meaning": "Yükselmek",
+      "tense": "Present tense",
+      "verb": "Rise"
+    },
+    {
+      "meaning": "Yükselmek",
+      "tense": "Past simple tense",
+      "verb": "Rose"
+    },
+    {
+      "meaning": "Yükselmek",
+      "tense": "Past participle",
+      "verb": "Risen"
+    },
+    {
+      "meaning": "Koşmak",
+      "tense": "Present tense",
+      "verb": "Run"
+    },
+    {
+      "meaning": "Koşmak",
+      "tense": "Past simple tense",
+      "verb": "Ran"
+    },
+    {
+      "meaning": "Koşmak",
+      "tense": "Past participle",
+      "verb": "Run"
+    },
+    {
+      "meaning": "Söylemek",
+      "tense": "Present tense",
+      "verb": "Say"
+    },
+    {
+      "meaning": "Söylemek",
+      "tense": "Past simple tense",
+      "verb": "Said"
+    },
+    {
+      "meaning": "Söylemek",
+      "tense": "Past participle",
+      "verb": "Said"
+    },
+    {
+      "meaning": "Görmek",
+      "tense": "Present tense",
+      "verb": "See"
+    },
+    {
+      "meaning": "Görmek",
+      "tense": "Past simple tense",
+      "verb": "Saw"
+    },
+    {
+      "meaning": "Görmek",
+      "tense": "Past participle",
+      "verb": "Seen"
+    },
+    {
+      "meaning": "Satmak",
+      "tense": "Present tense",
+      "verb": "Sell"
+    },
+    {
+      "meaning": "Satmak",
+      "tense": "Past simple tense",
+      "verb": "Sold"
+    },
+    {
+      "meaning": "Satmak",
+      "tense": "Past participle",
+      "verb": "Sold"
+    },
+    {
+      "meaning": "Göndermek",
+      "tense": "Present tense",
+      "verb": "Send"
+    },
+    {
+      "meaning": "Göndermek",
+      "tense": "Past simple tense",
+      "verb": "Sent"
+    },
+    {
+      "meaning": "Göndermek",
+      "tense": "Past participle",
+      "verb": "Sent"
+    },
+    {
+      "meaning": "Göstermek",
+      "tense": "Present tense",
+      "verb": "Show"
+    },
+    {
+      "meaning": "Göstermek",
+      "tense": "Past simple tense",
+      "verb": "Showed"
+    },
+    {
+      "meaning": "Göstermek",
+      "tense": "Past participle",
+      "verb": "Showed/Shown"
+    },
+    {
+      "meaning": "Şarkı söylemek",
+      "tense": "Present tense",
+      "verb": "Sing"
+    },
+    {
+      "meaning": "Şarkı söylemek",
+      "tense": "Past simple tense",
+      "verb": "Sang"
+    },
+    {
+      "meaning": "Şarkı söylemek",
+      "tense": "Past participle",
+      "verb": "Sung"
+    },
+    {
+      "meaning": "Oturmak",
+      "tense": "Present tense",
+      "verb": "Sit"
+    },
+    {
+      "meaning": "Oturmak",
+      "tense": "Past simple tense",
+      "verb": "Sat"
+    },
+    {
+      "meaning": "Oturmak",
+      "tense": "Past participle",
+      "verb": "Sat"
+    },
+    {
+      "meaning": "Uyumak",
+      "tense": "Present tense",
+      "verb": "Sleep"
+    },
+    {
+      "meaning": "Uyumak",
+      "tense": "Past simple tense",
+      "verb": "Slept"
+    },
+    {
+      "meaning": "Uyumak",
+      "tense": "Past participle",
+      "verb": "Slept"
+    },
+    {
+      "meaning": "Konuşmak",
+      "tense": "Present tense",
+      "verb": "Speak"
+    },
+    {
+      "meaning": "Konuşmak",
+      "tense": "Past simple tense",
+      "verb": "Spoke"
+    },
+    {
+      "meaning": "Konuşmak",
+      "tense": "Past participle",
+      "verb": "Spoken"
+    },
+    {
+      "meaning": "Harcamak",
+      "tense": "Present tense",
+      "verb": "Spend"
+    },
+    {
+      "meaning": "Harcamak",
+      "tense": "Past simple tense",
+      "verb": "Spent"
+    },
+    {
+      "meaning": "Harcamak",
+      "tense": "Past participle",
+      "verb": "Spent"
+    },
+    {
+      "meaning": "Ayakta durmak",
+      "tense": "Present tense",
+      "verb": "Stand"
+    },
+    {
+      "meaning": "Ayakta durmak",
+      "tense": "Past simple tense",
+      "verb": "Stood"
+    },
+    {
+      "meaning": "Ayakta durmak",
+      "tense": "Past participle",
+      "verb": "Stood"
+    },
+    {
+      "meaning": "Yüzmek",
+      "tense": "Present tense",
+      "verb": "Swim"
+    },
+    {
+      "meaning": "Yüzmek",
+      "tense": "Past simple tense",
+      "verb": "Swam"
+    },
+    {
+      "meaning": "Yüzmek",
+      "tense": "Past participle",
+      "verb": "Swum"
+    },
+    {
+      "meaning": "Almak",
+      "tense": "Present tense",
+      "verb": "Take"
+    },
+    {
+      "meaning": "Almak",
+      "tense": "Past simple tense",
+      "verb": "Took"
+    },
+    {
+      "meaning": "Almak",
+      "tense": "Past participle",
+      "verb": "Taken"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Present tense",
+      "verb": "Teach"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Past simple tense",
+      "verb": "Taught"
+    },
+    {
+      "meaning": "Öğretmek",
+      "tense": "Past participle",
+      "verb": "Taught"
+    },
+    {
+      "meaning": "Yırtmak",
+      "tense": "Present tense",
+      "verb": "Tear"
+    },
+    {
+      "meaning": "Yırtmak",
+      "tense": "Past simple tense",
+      "verb": "Tore"
+    },
+    {
+      "meaning": "Yırtmak",
+      "tense": "Past participle",
+      "verb": "Torn"
+    },
+    {
+      "meaning": "Anlatmak",
+      "tense": "Present tense",
+      "verb": "Tell"
+    },
+    {
+      "meaning": "Anlatmak",
+      "tense": "Past simple tense",
+      "verb": "Told"
+    },
+    {
+      "meaning": "Anlatmak",
+      "tense": "Past participle",
+      "verb": "Told"
+    },
+    {
+      "meaning": "Düşünmek",
+      "tense": "Present tense",
+      "verb": "Think"
+    },
+    {
+      "meaning": "Düşünmek",
+      "tense": "Past simple tense",
+      "verb": "Thought"
+    },
+    {
+      "meaning": "Düşünmek",
+      "tense": "Past participle",
+      "verb": "Thought"
+    },
+    {
+      "meaning": "Fırlatmak",
+      "tense": "Present tense",
+      "verb": "Throw"
+    },
+    {
+      "meaning": "Fırlatmak",
+      "tense": "Past simple tense",
+      "verb": "Threw"
+    },
+    {
+      "meaning": "Fırlatmak",
+      "tense": "Past participle",
+      "verb": "Thrown"
+    },
+    {
+      "meaning": "Anlamak",
+      "tense": "Present tense",
+      "verb": "Understand"
+    },
+    {
+      "meaning": "Anlamak",
+      "tense": "Past simple tense",
+      "verb": "Understood"
+    },
+    {
+      "meaning": "Anlamak",
+      "tense": "Past participle",
+      "verb": "Understood"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Present tense",
+      "verb": "Wake"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Past simple tense",
+      "verb": "Woke"
+    },
+    {
+      "meaning": "Uyanmak",
+      "tense": "Past participle",
+      "verb": "Woken"
+    },
+    {
+      "meaning": "Giymek",
+      "tense": "Present tense",
+      "verb": "Wear"
+    },
+    {
+      "meaning": "Giymek",
+      "tense": "Past simple tense",
+      "verb": "Wore"
+    },
+    {
+      "meaning": "Giymek",
+      "tense": "Past participle",
+      "verb": "Worn"
+    },
+    {
+      "meaning": "Kazanmak",
+      "tense": "Present tense",
+      "verb": "Win"
+    },
+    {
+      "meaning": "Kazanmak",
+      "tense": "Past simple tense",
+      "verb": "Won"
+    },
+    {
+      "meaning": "Kazanmak",
+      "tense": "Past participle",
+      "verb": "Won"
+    },
+    {
+      "meaning": "Yazmak",
+      "tense": "Present tense",
+      "verb": "Write"
+    },
+    {
+      "meaning": "Yazmakk",
+      "tense": "Past simple tense",
+      "verb": "Wrote"
+    },
+    {
+      "meaning": "Yazmak",
+      "tense": "Past participle",
+      "verb": "Written"
+    }
+  ]
+}
